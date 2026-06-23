@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: registry.digitalocean.com/k8s-microservice/k8s-microservice
-  tag: "5220d05"
+  tag: "016baea"
   pullPolicy: IfNotPresent
 
 service:
