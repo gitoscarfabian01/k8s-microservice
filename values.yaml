@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: registry.digitalocean.com/mi-registro/microservice
-  tag: "1.0.0"
+  tag: "749d8f6"
   pullPolicy: IfNotPresent
 
 service:
